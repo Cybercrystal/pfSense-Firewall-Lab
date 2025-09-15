@@ -36,7 +36,7 @@ This project demonstrates how I set up a pfSense firewall inside VMware on windo
 - Adapter 2 → **Host-only** (LAN).   
 
 <p align="center">
-  <img src="./screenshots/Image1.png" alt="Nmap Scan" width="600"/>
+  <img src="./screenshots/.png" alt="Nmap Scan" width="600"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@ This project demonstrates how I set up a pfSense firewall inside VMware on windo
 - **LAN (em1)** → `192.168.1.1/24`.
 
 <p align="center">
-  <img src="./screenshots/Image2.png" alt="Nikto Scan" width="600"/>
+  <img src="./screenshots/.png" alt="Nikto Scan" width="600"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ Login: admin
 Password: pfsense
 
 <p align="center">
-  <img src="./screenshots/Image2.png" alt="Nikto Scan" width="600"/>
+  <img src="./screenshots/.png" alt="Nikto Scan" width="600"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@ Ran through the Setup Wizard:
 ✅ pfSense dashboard now active
 
 <p align="center">
-  <img src="./screenshots/Image2.png" alt="Nikto Scan" width="600"/>
+  <img src="./screenshots/.png" alt="Nikto Scan" width="600"/>
 </p>
 
 ---
@@ -138,9 +138,9 @@ Ran through the Setup Wizard:
 3. Block all others
   
 <p align="center">
-  <img src="./screenshots/Image3.png" alt="Shell Access 1" width="600"/>
+  <img src="./screenshots/.png" alt="Shell Access 1" width="600"/>
   <br/>
-  <img src="./screenshots/Image4.png" alt="Shell Access 2" width="600"/>
+  <img src="./screenshots/.png" alt="Shell Access 2" width="600"/>
 </p>
 
 ---
@@ -180,7 +180,7 @@ https://google.com
 ❌ **Browser fails to load**
 
 <p align="center">
-  <img src="./screenshots/Image2.png" alt="Nikto Scan" width="600"/>
+  <img src="./screenshots/.png" alt="Nikto Scan" width="600"/>
 </p>
 
 ---
@@ -197,7 +197,7 @@ https://google.com
 - Saved and applied changes
 
 <p align="center">
-  <img src="./screenshots/Image2.png" alt="Nikto Scan" width="600"/>
+  <img src="./screenshots/.png" alt="Nikto Scan" width="600"/>
 </p>
 
 ---
