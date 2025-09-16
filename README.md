@@ -54,7 +54,7 @@ This project demonstrates how I set up a pfSense firewall inside VMware on windo
 - **LAN (em1)** → `192.168.1.1/24`.
 
 <p align="center">
-  <img src="./screenshots/.png" alt="Nikto Scan" width="600"/>
+  <img src="./screenshots/pfSenseLab/pfsenseboot.png" alt="Boot" width="600"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@ This project demonstrates how I set up a pfSense firewall inside VMware on windo
 - Tested connectivity to pfSense LAN:  
 ```bash
 ping 192.168.1.1
-```
+``` 
 ✅ **Successful replies**
 
 Accessed pfSense WebGUI:
