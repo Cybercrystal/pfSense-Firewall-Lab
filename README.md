@@ -39,6 +39,7 @@ This project demonstrates how I set up a pfSense firewall inside VMware on windo
   <img src="./screenshots/pfSenseLab/hardware.png.png" alt="Hardware" width="600"/>
 </p>
 
+Screenshots/pfSenseLab/hardware.png.png
 ---
 
 ### Step 3: Installing pfSense
