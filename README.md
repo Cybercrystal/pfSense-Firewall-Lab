@@ -188,7 +188,7 @@ https://google.com
 </p>
 
 <p align="center">
-  <img src="./screenshots/pfSenseLab/tracert1.png" alt="Adapter change" width="600"/>
+  <img src="./screenshots/pfSenseLab/tracert1.png" alt="Blocked Host" width="600"/>
 </p>
 ---
 
