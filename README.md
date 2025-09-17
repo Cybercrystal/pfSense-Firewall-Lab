@@ -82,7 +82,7 @@ Login: admin
 Password: pfsense
 
 <p align="center">
-  <img src="./screenshots/.png" alt="Nikto Scan" width="600"/>
+  <img src="./screenshots/pfSenseLab/pfsensegui.png" alt="pfSense GUI" width="600"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@ Ran through the Setup Wizard:
 ✅ pfSense dashboard now active
 
 <p align="center">
-  <img src="./screenshots/.png" alt="Nikto Scan" width="600"/>
+  <img src="./screenshots/pfSenseLab/guisetup.png" alt="GUI" width="600"/>
 </p>
 
 ---
@@ -138,9 +138,9 @@ Ran through the Setup Wizard:
 3. Block all others
   
 <p align="center">
-  <img src="./screenshots/.png" alt="Shell Access 1" width="600"/>
+  <img src="./screenshots/pfSense/firewallrules.png" alt="Firewall Rule Creation" width="600"/>
   <br/>
-  <img src="./screenshots/.png" alt="Shell Access 2" width="600"/>
+  <img src="./screenshots/pfSenseLab/firewallorder.png" alt="Rule Order" width="600"/>
 </p>
 
 ---
@@ -180,9 +180,16 @@ https://google.com
 ❌ **Browser fails to load**
 
 <p align="center">
-  <img src="./screenshots/.png" alt="Nikto Scan" width="600"/>
+  <img src="./screenshots/pfSenseLab/ping1.png" alt="192.168.1.1 ping" width="600"/>
 </p>
 
+<p align="center">
+  <img src="./screenshots/pfSenseLab/test1.png" alt="Adapter change" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/pfSenseLab/tracert1.png" alt="Adapter change" width="600"/>
+</p>
 ---
 
 ### Step 8: Adding a Schedule
@@ -197,7 +204,11 @@ https://google.com
 - Saved and applied changes
 
 <p align="center">
-  <img src="./screenshots/.png" alt="Nikto Scan" width="600"/>
+  <img src="./screenshots/pfSenseLab/schedule.png" alt="Schedule" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/pfSenseLab/workhours.png" alt="Work Hours applied" width="600"/>
 </p>
 
 ---
