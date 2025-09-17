@@ -35,10 +35,6 @@ This project demonstrates how I set up a pfSense firewall inside VMware on windo
 - Adapter 1 → **NAT** (WAN).  
 - Adapter 2 → **Host-only** (LAN).   
 
-<p align="center">
-  <img src="./screenshots/pfSenseLab/hardware.png.png" alt="Hardware" width="600"/>
-</p>
-
 ![Hardware](Screenshots/pfSenseLab/hardware.png.png)
 ---
 
