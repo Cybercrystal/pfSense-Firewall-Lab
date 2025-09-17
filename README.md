@@ -36,6 +36,7 @@ This project demonstrates how I set up a pfSense firewall inside VMware on windo
 - Adapter 2 → **Host-only** (LAN).   
 
 ![Hardware](Screenshots/pfSenseLab/hardware.png.png)
+
 ---
 
 ### Step 3: Installing pfSense
@@ -76,9 +77,8 @@ Login: admin
 
 Password: pfsense
 
-<p align="center">
-  <img src="./screenshots/pfSenseLab/pfsensegui.png" alt="pfSense GUI" width="600"/>
-</p>
+
+![pfSense GUI](Screenshots/pfSenseLab/pfsensegui.png.png)
 
 ---
 
@@ -102,9 +102,8 @@ Ran through the Setup Wizard:
 
 ✅ pfSense dashboard now active
 
-<p align="center">
-  <img src="./screenshots/pfSenseLab/guisetup.png" alt="GUI" width="600"/>
-</p>
+
+![GUI](Screenshots/pfSenseLab/guisetup.png.png)
 
 ---
 
@@ -132,11 +131,9 @@ Ran through the Setup Wizard:
 2. Allow AllowedHosts
 3. Block all others
   
-<p align="center">
-  <img src="./screenshots/pfSense/firewallrules.png" alt="Firewall Rule Creation" width="600"/>
-  <br/>
-  <img src="./screenshots/pfSenseLab/firewallorder.png" alt="Rule Order" width="600"/>
-</p>
+![Firewall Rule](Screenshots/pfSenseLab/firewallrules.png.png)
+
+![Firewall Order](Screenshots/pfSenseLab/firewallorder.png.png)
 
 ---
 
@@ -174,17 +171,13 @@ https://google.com
 ```
 ❌ **Browser fails to load**
 
-<p align="center">
-  <img src="./screenshots/pfSenseLab/ping1.png" alt="192.168.1.1 ping" width="600"/>
-</p>
 
-<p align="center">
-  <img src="./screenshots/pfSenseLab/test1.png" alt="Adapter change" width="600"/>
-</p>
+![192.168.1.1 ping](Screenshots/pfSenseLab/ping1.png.png)
 
-<p align="center">
-  <img src="./screenshots/pfSenseLab/tracert1.png" alt="Blocked Host" width="600"/>
-</p>
+![Adapter Change](Screenshots/pfSenseLab/test1.png.png)
+
+![Blocked Host](Screenshots/pfSenseLab/tracert1.png.png)
+
 ---
 
 ### Step 8: Adding a Schedule
@@ -198,13 +191,10 @@ https://google.com
     
 - Saved and applied changes
 
-<p align="center">
-  <img src="./screenshots/pfSenseLab/schedule.png" alt="Schedule" width="600"/>
-</p>
 
-<p align="center">
-  <img src="./screenshots/pfSenseLab/workhours.png" alt="Work Hours applied" width="600"/>
-</p>
+![Schedule](Screenshots/pfSenseLab/schedule.png.png)
+
+![Work Hours Applied](Screenshots/pfSenseLab/workhours.png.png)
 
 ---
 
