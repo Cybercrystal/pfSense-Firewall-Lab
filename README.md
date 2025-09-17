@@ -50,9 +50,7 @@ This project demonstrates how I set up a pfSense firewall inside VMware on windo
 - **WAN (em0)** → `192.168.192.x` (from VMware NAT).  
 - **LAN (em1)** → `192.168.1.1/24`.
 
-<p align="center">
-  <img src="./screenshots/pfSenseLab/pfsenseboot.png" alt="Boot" width="600"/>
-</p>
+![Boot](Screenshots/pfSenseLab/pfsenseboot.png.png)
 
 ---
 
